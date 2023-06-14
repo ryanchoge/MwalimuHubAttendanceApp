@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/home1"/>
+
+    <item
+        android:id="@+id/news"
+        android:title="Feeds"
+        android:icon="@drawable/chat_24"
+        />
+
+    <item
+        android:title=""/>
+
+    <item
+        android:id="@+id/classes"
+        android:title="Classes"
+        android:icon="@drawable/training" />
+    <item
+        android:id="@+id/teachers"
+        android:title="Teachers"
+        android:icon="@drawable/users" />
+
+</menu>
